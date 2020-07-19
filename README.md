@@ -3,7 +3,7 @@
 I'm a computer science student at [University of Hamburg](https://www.uni-hamburg.de/) and am interested in all
 things related to coding. 
 
-### Experience and past projects
+### Projects
 In my repositories you'll find some small projects:
 - [PaypalTransactionVisualizer](https://github.com/bjoernpl/PaypalTransactionVisualizer) is a Jupyter notebook
 which shows you some interesting infos about your past spending with PayPal. This is a project I implemented mostly
@@ -15,6 +15,7 @@ The repo is not well maintained and used primarily as my own VCS. Check out the 
 [Play Store](https://play.google.com/store/apps/details?id=com.bnpgames.android.colorflow). This is a project I will
 definitely come back to in the future and maybe rewrite in proper Kotlin.
 
+### Experience
 Due to my job at [SecSign Technologies](https://github.com/SecSign), university projects and some of my own learning,
 I have experience in many areas and languages:
 
