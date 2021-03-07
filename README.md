@@ -8,6 +8,8 @@ In my repositories you'll find some small projects:
 - [AutoObjectRemoval](https://github.com/bjoernpl/AutoObjectRemoval) is a combination of Instance Segmentation using
 Detectron2, and Flow-Guided Video Completion to create a system which can automatically mask and remove objects
 from videos.
+- [DirectoryStats](https://github.com/bjoernpl/DirectoryStats) is a python CLI for efficiently counting large amounts of
+files and subdirectories.
 - [PaypalTransactionVisualizer](https://github.com/bjoernpl/PaypalTransactionVisualizer) is a Jupyter notebook
 which shows you some interesting infos about your past spending with PayPal. This is a project I implemented mostly
 to gain some insight on my own spending habits but also to practice using Jupyter and some interesting python features.
