@@ -48,8 +48,8 @@ development, I haven't used it much.
 ---
 <img src="https://p5js.org/assets/img/p5js.svg" alt="p5js" width="70"/>
  
- p5.js is a Javascript library which makes coding simple graphics and interesting visuals very easy. Check out some of my 
-<a href="https://editor.p5js.org/code/sketches">sketches</a>.
+ p5.js is a Javascript library which makes coding simple graphics and interesting visuals very easy. 
+ <!--Check out some of my <a href="https://editor.p5js.org/code/sketches">sketches</a>.-->
 
 ##### Others
 - C++ for working with Arduinos. Mainly used for university projects.
