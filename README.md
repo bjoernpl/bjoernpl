@@ -25,7 +25,7 @@ I have experience in many areas and languages:
 <img src="https://duckduckgo.com/i/a61af354.png" width="100" alt="python" style="vertical-align: text-bottom"/> 
 
 Python is by far my favorite language to work with. I use it whenever the project scope allows it. 
-My experience includes TensorFlow, PyTorch and many other libraries.    
+My experience includes PyTorch, Numpy and many other libraries.    
  
 ---
 <img src="https://duckduckgo.com/i/9508dc2f.png" width="40" alt="kotlin" /> 
