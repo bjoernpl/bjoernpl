@@ -56,9 +56,8 @@ development, I haven't used it much.
 - Some basic PHP, HTML, Javascript and CSS for creating some web plugins.
 
 ### Future plans
-I will soon be starting on my bachelor's thesis, where I will be using PyTorch to implement a
-model for speech synthesis which will approximate a persons voice using a face embedding. After completing
-this, I plan on gaining some experience by working on some open source projects.
+Currently working on my bachelor's thesis, where I am using PyTorch to implement a
+model for target speaker speech synthesis using a face image reference. 
 
 ### Contact me
 Best way to reach me is via e-mail [bjoern.pl@outlook.de](mailto://bjoern.pl@outlook.de). 
