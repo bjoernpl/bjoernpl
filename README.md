@@ -8,6 +8,8 @@ In my repositories you'll find some small projects:
 - [AutoObjectRemoval](https://github.com/bjoernpl/AutoObjectRemoval) is a combination of Instance Segmentation using
 Detectron2, and Flow-Guided Video Completion to create a system which can automatically mask and remove objects
 from videos.
+- [VideoSilenceRemover](https://github.com/bjoernpl/VideoSilenceRemover) is a tool for automatically cutting segments of silence out of
+a video. Created this tool for a friend to facilitate the boring parts of his job.
 - [DirectoryStats](https://github.com/bjoernpl/DirectoryStats) is a python CLI for efficiently counting large amounts of
 files and subdirectories.
 - [PaypalTransactionVisualizer](https://github.com/bjoernpl/PaypalTransactionVisualizer) is a Jupyter notebook
