@@ -1,7 +1,7 @@
 ## Björn Plüster - @bjoernpl
 
-I'm a computer science student at [University of Hamburg](https://www.uni-hamburg.de/) and am interested in all
-things related to coding. 
+I am a computer science student at [University of Hamburg](https://www.uni-hamburg.de/) interested in all
+things related to coding.  
 
 ### Projects
 In my repositories you'll find some small projects:
@@ -11,7 +11,7 @@ from videos.
 - [VideoSilenceRemover](https://github.com/bjoernpl/VideoSilenceRemover) is a tool for automatically cutting segments of silence out of
 a video. Created this tool for a friend to facilitate the boring parts of his job.
 - [DirectoryStats](https://github.com/bjoernpl/DirectoryStats) is a python CLI for efficiently counting large amounts of
-files and subdirectories.
+files and subdirectories. Needed this to keep track of directory size during creation of the dataset for my thesis project.
 - [PaypalTransactionVisualizer](https://github.com/bjoernpl/PaypalTransactionVisualizer) is a Jupyter notebook
 which shows you some interesting infos about your past spending with PayPal. This is a project I implemented mostly
 to gain some insight on my own spending habits but also to practice using Jupyter and some interesting python features.
