@@ -49,10 +49,3 @@ development, I haven't used it much.
 
 ### Contact me
 Best way to reach me is via e-mail [bjoern.pl@outlook.de](mailto://bjoern.pl@outlook.de). 
-
-#### Image sources:
-1. Python: https://duckduckgo.com/i/a61af354.png
-2. Kotlin:  https://duckduckgo.com/i/9508dc2f.png
-3. Swift: https://duckduckgo.com/i/f16ce558.png"
-4. Java: https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/141px-Java_programming_language_logo.svg.png
-5. p5.js: https://p5js.org/assets/img/p5js.svg
