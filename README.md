@@ -4,6 +4,8 @@ I am currently studying in the Intelligent Adaptive Systems Masters program at t
 
 ### Projects
 In my repositories you'll find some projects:
+- [DiscoveredWeekly](https://github.com/bjoernpl/DiscoveredWeekly) contains the source code for my website [discoveredweekly.com](https://discoveredweekly.com) where users can log in with their Spotify account and every monday their new Discover Weekly playlist will get copied automatically, making sure no valuable song suggestions are ever lost.
+- [Explainable OFA](https://explainable-ofa.ml/) is a demo created for a university project. In this, we vizualize the attention maps of a multimodal transformer model ([OFA](https://github.com/OFA-Sys/OFA)) in a VQA task to aid in the interpretation of the results. An extension of this is coming sometime in the future.
 - [AutoObjectRemoval](https://github.com/bjoernpl/AutoObjectRemoval) is a combination of Instance Segmentation using
 Detectron2, and Flow-Guided Video Completion to create a system which can automatically mask and remove objects
 from videos.
@@ -20,6 +22,15 @@ which shows you some stats regarding the Youtube videos you've used in the past.
 The repo is not well maintained and used primarily as my own VCS. Check out the game in the 
 [Play Store](https://play.google.com/store/apps/details?id=com.bnpgames.android.colorflow). This is a project I will
 definitely come back to in the future and maybe rewrite in proper Kotlin.
+
+### Publications
+See my [IEEE author profile](https://ieeexplore.ieee.org/author/37089286467) for an updated list of publications.
+
+#### 2021:
+```B. Plüster, C. Weber, L. Qu and S. Wermter, "Hearing Faces: Target Speaker Text-to-Speech Synthesis from a Face," 2021 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 2021, pp. 757-764, doi: 10.1109/ASRU51503.2021.9687866.```
+
+#### 2022:
+```None yet```
 
 ### Experience
 Due to my job at [SecSign Technologies](https://github.com/SecSign), university projects and some of my own learning,
