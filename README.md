@@ -1,6 +1,6 @@
 ## Björn Plüster - @bjoernpl
 
-I am currently studying in the Intelligent Adaptive Systems Masters program at the [University of Hamburg](https://www.uni-hamburg.de/) and am interested in most things coding related. Currently I'm focussing on AI research, particularly regarding multimodal applications of the Transformer architecture.
+I am currently studying in the Intelligent Adaptive Systems Masters program at the [University of Hamburg](https://www.uni-hamburg.de/) and am interested in most things coding related. Currently I'm focusing on AI research, particularly regarding multimodal applications of the Transformer architecture.
 
 ### Projects
 In my repositories you'll find some projects:
