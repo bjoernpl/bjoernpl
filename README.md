@@ -1,7 +1,7 @@
 ## Björn Plüster - @bjoernpl
 [![🤗HuggingFace - bjoernpl](https://img.shields.io/badge/🤗HuggingFace-bjoernpl-yellow?style=for-the-badge)](https://huggingface.co/bjoernp) [![Discord](https://img.shields.io/badge/@bjoernp-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/bjoernp)
 
-AI researcher currently invested in German LLMs. Collaborating with LAION and focused on advancing european open-source AI research. Interested and experienced in large-scale distributed language model training and evaluation. Studying Intelligent Adaptive Systems (MSc.) at Univeristy of Hamburg.
+AI researcher currently invested in German LLMs. Collaborating with LAION and focused on advancing european open-source AI research. Interested and experienced in large-scale distributed language model training and evaluation. Studying Intelligent Adaptive Systems (MSc.) at University of Hamburg.
 
 ### Recent Project
 - **German LLM**: WIP. Current open-source LLMs suck at german. I'm working to fix that.
