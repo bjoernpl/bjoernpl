@@ -3,8 +3,8 @@
 
 AI researcher currently invested in German LLMs. Collaborating with LAION and focused on advancing european open-source AI research. Interested and experienced in large-scale distributed language model training and evaluation. Studying Intelligent Adaptive Systems (MSc.) at University of Hamburg.
 
-### Recent Project
-- **German LLM**: WIP. Current open-source LLMs suck at german. I'm working to fix that.
+### Recent Projects
+- **LeoLM: German LLM**: I used large-scale continued pretraining to transfer the English-language capablities of Llama-2 to German. Together with LAION and Hessian.AI we released [LeoLM: Linguistically Enhanced Open Language Model](https://huggingface.co/LeoLM) at different model scales. Check out our Blog post for more info: https://laion.ai/blog/leo-lm/
 - **Vision-Language Explanations**: Transformer explainability is lacking but they are great at producing text. Why not have it explain it's own decisions? A large research project investigating natural language explanations for multimodal transformer applications. Currently under review. Arxiv preprint: https://arxiv.org/abs/2212.04231
 - [KOSMOS-1 Reimplimentation](https://github.com/bjoernpl/KOSMOS_reimplementation): The KOSMOS-1 paper (multimodal foundation model) was super interesting to me at the time but no code to be found anywhere. This is a very rudimentary reimplementation of the core aspects.
 - [Tagesschau](https://github.com/bjoernpl/tagesschau): Simple scrape of Tagesschau news articles.
