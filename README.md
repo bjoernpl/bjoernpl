@@ -1,7 +1,7 @@
 ## Björn Plüster - @bjoernpl
 [![🤗HuggingFace - bjoernpl](https://img.shields.io/badge/🤗HuggingFace-bjoernpl-yellow?style=for-the-badge)](https://huggingface.co/bjoernp) [![Discord](https://img.shields.io/badge/@bjoernp-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/bjoernp)
 
-AI researcher currently invested in German LLMs. Collaborating with LAION and focused on advancing european open-source AI research. Interested and experienced in large-scale distributed language model training and evaluation. Studying Intelligent Adaptive Systems (MSc.) at University of Hamburg.
+Open-source enthusiast, LLM expert, co-founder and CTO of [ellamind](https://ellamind.com), and co-founder of [DiscoResearch](https://discoresearch.org), our open-source research and development community. Come chat with me in [our Discord](https://discord.gg/wcG2pMGfSC)!
 
 ### Recent Projects
 - **LeoLM: German LLM**: I used large-scale continued pretraining to transfer the English-language capablities of Llama-2 to German. Together with LAION and Hessian.AI we released [LeoLM: Linguistically Enhanced Open Language Model](https://huggingface.co/LeoLM) at different model scales. Check out our Blog post for more info: https://laion.ai/blog/leo-lm/
